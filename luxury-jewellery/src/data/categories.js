@@ -1,0 +1,92 @@
+export const categories = [
+  {
+    id: 'silver-jewellery',
+    name: 'Silver Jewellery',
+    description: 'Exquisite handcrafted silver jewellery for every occasion',
+    image: 'https://images.unsplash.com/photo-1515562141589-67f0d727b750?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'anklets-payal',
+    name: 'Anklets / Payal',
+    description: 'Traditional silver anklets with intricate designs',
+    image: 'https://images.unsplash.com/photo-1576022162029-547f8e61a61e?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'bridal-silver',
+    name: 'Bridal Silver',
+    description: 'Complete bridal silver jewellery sets',
+    image: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'toe-rings',
+    name: 'Toe Rings',
+    description: 'Elegant silver toe rings with traditional motifs',
+    image: 'https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-earrings',
+    name: 'Silver Earrings',
+    description: 'Handcrafted silver earrings and jhumkas',
+    image: 'https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-bracelets',
+    name: 'Silver Bracelets',
+    description: 'Sterling silver bracelets and bangles',
+    image: 'https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-chains',
+    name: 'Silver Chains',
+    description: 'Premium silver chains and neck chains',
+    image: 'https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-necklaces',
+    name: 'Silver Necklaces',
+    description: 'Statement silver necklaces and haar sets',
+    image: 'https://images.unsplash.com/photo-1515562141589-67f0d727b750?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-pooja',
+    name: 'Silver Pooja Articles',
+    description: 'Sacred silver items for worship and prayer',
+    image: 'https://images.unsplash.com/photo-1609234656388-4ff3914c2c53?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-idols',
+    name: 'Silver Idols',
+    description: 'Handcrafted silver deity idols',
+    image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-utensils',
+    name: 'Silver Utensils',
+    description: 'Traditional silver kitchen and dining ware',
+    image: 'https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-bowls-spoons',
+    name: 'Silver Bowls & Spoons',
+    description: 'Elegant silver dining essentials',
+    image: 'https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-coins',
+    name: 'Silver Coins',
+    description: 'Pure silver coins for gifting and investment',
+    image: 'https://images.unsplash.com/photo-1610375280858-08389947b3b8?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'silver-gifts',
+    name: 'Silver Gifts',
+    description: 'Meaningful silver gifts for every celebration',
+    image: 'https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&h=750&fit=crop',
+  },
+  {
+    id: 'custom-silver',
+    name: 'Custom Silver',
+    description: 'Bespoke silver creations crafted to your vision',
+    image: 'https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=600&h=750&fit=crop',
+  },
+];
